@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wheres My Ride</string>
+    <string name="title_activity_passenger_map">Passenger Map</string>
+
+</resources>

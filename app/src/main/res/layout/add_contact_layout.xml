@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress"
+        android:ems="10"
+        android:id="@+id/streetAddress"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:hint="4059 Mt Lee Drive"/>
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/city"
+        android:hint="Hollywood, CA"
+        android:layout_row="1"
+        android:layout_column="0"
+        />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zipCode"
+        android:hint="90068"
+        android:layout_row="2"
+        android:layout_column="0"
+        />
+
+
+
+</GridLayout>

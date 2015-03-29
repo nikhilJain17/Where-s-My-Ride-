@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/addContactMenuItem"
+        android:title="Add Contact"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_launcher"/>
+
+    <item android:id="@+id/refresh"
+        android:title="R"
+        android:orderInCategory="102"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/search_button"
+        android:title="S"
+        android:orderInCategory="103"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/SendGrid"
+        android:title="sendgrid"
+        android:showAsAction="never"
+        />
+
+
+
+
+
+</menu>

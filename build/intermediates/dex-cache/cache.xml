@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/classes-f88691f5317c02328011822d17c7d17478e59a70.jar"
+        jar="/Users/test/Desktop/WheresMyRide/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/httpmime-4.3.4-3702f41c16768306d4afa05217710c3dc7436994.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.4/54ffde537682aea984c22fbcf0106f21397c5f9b/httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/classes-067b6a0dc5ef8eada649fd05d12133c8ab843f84.jar"
+        jar="/Users/test/Desktop/WheresMyRide/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/classes-b34ab81d9d7eb676b4f7e46a94fa3e07838f66c8.jar"
+        jar="/Users/test/Desktop/WheresMyRide/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2-f4f7c7b251ff79c05d57cd873bf03bfa68f66c73.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-5efed8d7000257137f839c00233661e128661f7b.jar"
+        jar="/Users/test/Desktop/WheresMyRide/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/sendgrid-java-2.0.0-8458908c4cd547925ca770c7e1644b547f7fee05.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/com.sendgrid/sendgrid-java/2.0.0/65604a0b3a7809bb10e625958aa716dfe29eee4d/sendgrid-java-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="65604a0b3a7809bb10e625958aa716dfe29eee4d"/>
+    <item
+        dex="/Users/test/Desktop/WheresMyRide/app/build/intermediates/pre-dexed/debug/smtpapi-java-1.0.0-c58c9d9bec806d5aa7a6446c247b515a1f5e9ece.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/com.sendgrid/smtpapi-java/1.0.0/ea5c2b37e4c454b2798c41a9fd7ff1e99e5f369e/smtpapi-java-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ea5c2b37e4c454b2798c41a9fd7ff1e99e5f369e"/>
+
+</pre-dex-items>
